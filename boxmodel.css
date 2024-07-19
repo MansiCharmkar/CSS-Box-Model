@@ -1,0 +1,41 @@
+.container {
+    background-color: rgb(23, 23, 108);
+    margin: auto;
+    margin-top: 80px;
+    padding: 30px;
+    height: 400px;
+    width: 600px;
+    color: rgb(243, 240, 240);
+}
+
+#H {
+    text-align: center;
+}
+
+#para {
+    font-size: 20px;
+}
+
+#M {
+    background-color: white;
+    font-size: 27px;
+    color: black;
+    text-align: center;
+    height: 270px;
+}
+
+#P {
+    background-color: rgb(115, 176, 115);
+    border: 5px blue;
+    height: 175px;
+    /* width: 360px; */
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+#C {
+    background-color: rgb(154, 168, 24);
+    margin-left: 70px;
+    margin-right: 70px;
+    height: 65px;
+}
